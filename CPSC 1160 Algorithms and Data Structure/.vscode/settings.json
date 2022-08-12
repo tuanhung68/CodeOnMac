@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "string": "cpp",
+    "new": "cpp",
+    "__nullptr": "cpp",
+    "ostream": "cpp",
+    "memory": "cpp",
+    "utility": "cpp",
+    "__bit_reference": "cpp",
+    "bitset": "cpp",
+    "chrono": "cpp",
+    "unordered_map": "cpp",
+    "algorithm": "cpp",
+    "iosfwd": "cpp",
+    "istream": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Enabled"
+}
